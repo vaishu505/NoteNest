@@ -781,7 +781,7 @@ function App() {
           <div className="welcome-section">
             <div>
               <p className="eyebrow">YOUR PERSONAL SPACE</p>
-              <h1>Good day, Vaishu <span>✦</span></h1>
+              <h1>Good morning! Ready to organize your thoughts? <span>✦</span></h1>
               <p className="welcome-text">Capture your thoughts. Organize your world.</p>
             </div>
 
