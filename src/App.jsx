@@ -782,7 +782,7 @@ function App() {
             <div>
               <p className="eyebrow">YOUR PERSONAL SPACE</p>
               <h1>Good morning! Ready to organize your thoughts? <span>✦</span></h1>
-              <p className="welcome-text">Capture your thoughts. Organize your world.</p>
+              <p className="welcome-text">A fresh start for your ideas.</p>
             </div>
 
             <div className="welcome-actions">
